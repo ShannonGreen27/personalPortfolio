@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
 
 .block{
 	background-color: black;
@@ -22,7 +22,7 @@ body{
 	width: 100%;
 	background-color: white;
 	font-size: 1.7em;
-	font-family: Lobster;
+	font-family: Josefin Slab;
 	color: black;
 }
 
@@ -40,6 +40,7 @@ h2{
 .row{
 	margin-right: 0px
 }
+
 .btn{
 	background-color: black;
 	border-color: black;
@@ -73,7 +74,7 @@ div.description a img:hover {
 }
 
 .me{
-	height: 300px;
+	height: 400px;
 }
 
 .pageThree{
