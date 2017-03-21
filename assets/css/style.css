@@ -12,10 +12,15 @@
 	color: white;
 }
 
-.nav-pills{
+.navbar{
 	font-size: 1.7em;
 	background-color: black;
 	margin-bottom: -10px;
+	padding-top: 10px;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: #337ab7;
 }
 
 body{
@@ -24,6 +29,8 @@ body{
 	font-size: 1.7em;
 	font-family: Josefin Slab;
 	color: black;
+	padding: 0px;
+	margin: 0px;
 }
 
 h1{
